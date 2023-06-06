@@ -1,0 +1,4 @@
+root:password
+nix:washere
+user:pass
+han:han
